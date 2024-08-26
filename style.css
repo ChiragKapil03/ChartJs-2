@@ -1,0 +1,54 @@
+ *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: monospace;
+ }
+
+ body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: url(https://wallpapers.com/images/hd/bgmi-1920-x-1080-background-mhhqw02vmccjf9tc.jpg);
+    background-repeat: no-repeat ;
+    /* background-position: center; */
+    background-size: cover;
+ }
+ p{
+    font-weight: 800;
+    font-size: 50px;
+    text-shadow: 5px 0px 50px rgb(230, 99, 99);
+    color: azure;
+    background-color: rgb(11, 73, 18);
+ }
+ span{
+    font-weight: 800;
+    font-size: 30px;
+    text-shadow: 5px 0px 50px rgb(230, 99, 99);
+    color: azure;
+    background-color: rgb(11, 73, 18);
+ }
+ #graph3{
+    height: 450px;
+    width: 450px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(195, 228, 195);
+ }
+ #myChart3{
+    height: 100%;
+    width: 100%;
+ }
+
+ #graph2{
+    height: 300px;
+    width: 600px;
+    border-radius: 20px;
+    padding: 20px;
+    background-color: rgb(195, 228, 195);
+ }
+ #myChart2{
+    height: 100%;
+    width: 100%;
+ }
